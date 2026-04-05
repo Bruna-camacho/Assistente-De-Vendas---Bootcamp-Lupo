@@ -79,7 +79,7 @@ R$ 200,00
 
 ******** OFERTA REFINADA ********
 
-1) Peça principal recomendada (dentro do orçamento)
+1. Peça principal recomendada (dentro do orçamento)
 
 Legging Seamless Lupo Sport (modelo básico)
 
@@ -87,13 +87,13 @@ Respirável
 Sem costura (não incomoda nos agachamentos do crossfit)
 Serve perfeitamente para caminhada
 Geralmente fica entre R$ 119 a R$ 159
+
 2) Cross sell estratégico (baixo custo e útil)
 
 Com o valor restante, você pode adicionar:
-
-Meia de Performance Running/Crossfit (R$ 29–39)
+- Meia de Performance Running/Crossfit (R$ 29–39)
 ou
-Faixa de Cabelo Lupo Sport (R$ 19–29)
+- Faixa de Cabelo Lupo Sport (R$ 19–29)
 
 Isso ajuda muito no treino e mantém o ticket exatamente dentro dos R$ 200.
 
